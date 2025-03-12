@@ -33,7 +33,7 @@ export default function Home() {
 
       <div className="flex flex-col items-center justify-center h-screen">
         <h1 className="text-5xl font-bold text-yellow-400">Yamix</h1>
-        <p className="text-xl text-gray-300 mt-4">cube:</p>
+        <p className="text-xl text-gray-300 mt-4">this is yamix</p>
         <div className="w-96 h-96 mt-10">
           <Squares />
         </div>
